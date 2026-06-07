@@ -1,0 +1,6 @@
+{
+  "name": "Text To Speech",
+  "description": "A beautiful and clean text-to-speech app with voice customization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
